@@ -1,0 +1,18 @@
+.last-slide{
+  background-color: black;
+  position: fixed;
+  right: 0px;
+  color: white;
+  transition: width 1s;
+  font-family: KlavikaLight;
+  top: 20px;
+}
+
+.slider-right{
+  white-space: nowrap;
+  text-align: end;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  flex-direction: column;
+  height: 100%
+}

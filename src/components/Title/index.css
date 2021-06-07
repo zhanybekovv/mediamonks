@@ -1,0 +1,37 @@
+.first-slide{
+  display: flex;
+  color: white;
+  text-transform: uppercase;
+  font-size: 40px;
+  flex-direction: column;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+  position: inherit;
+  padding: 20px;
+  font-family: KlavikaRegular;
+}
+
+.title{
+  display: flex;
+  color: white;
+  text-transform: uppercase;
+  font-size: 40px;
+  flex-direction: column;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+  font-family: KlavikaRegular;
+}
+
+
+.title-position{
+  display: flex;
+  color: white; 
+  flex-direction: column;
+  justify-content: center;
+  top: 50%;
+  position: absolute; 
+  height: fit-content;   
+  justify-content: center;        
+}

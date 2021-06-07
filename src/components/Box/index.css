@@ -1,0 +1,23 @@
+.box-border{
+  border-left: 3px dotted white;
+  border-top: 3px dotted white;
+  border-bottom: 3px dotted white; 
+  width: 30px; 
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  font-family: KlavikaRegular;
+}
+
+.box-border:last-child{
+  border-right: 3px dotted white;
+}
+
+.selected-cell{
+  background-color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 10px;
+  padding-left: 10px;
+}

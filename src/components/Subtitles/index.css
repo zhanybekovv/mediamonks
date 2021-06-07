@@ -1,0 +1,9 @@
+.first-slide-subtitle{
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+  color: white;
+  display: flex;
+  z-index: 6;
+  font-family: KlavikaLight;
+}
